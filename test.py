@@ -2,4 +2,4 @@ print("test")
 
 print("After init")
 
-ffffff
+print("Dummy print :)")
